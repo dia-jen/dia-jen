@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Diana</h1>
-<h3 align="center">An IT student at ČVUT</h3>
+<h3 align="center">An IT student at CTU</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dia-jen&label=Profile%20views&color=0e75b6&style=flat" alt="dia-jen" /> </p>
 
